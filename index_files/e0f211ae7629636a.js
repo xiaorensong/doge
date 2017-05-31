@@ -1,1 +1,0 @@
-(function(e){if(!e)return;var t=function(){var t=navigator.userAgent.toLowerCase(),n=t.match(/edge\/([0-9.]+)/);n&&(e.Browser.edge=n[1])};t()})(QW);
